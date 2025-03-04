@@ -1,4 +1,7 @@
 # Poe2Smoother
+![6nLL4my](https://github.com/user-attachments/assets/30889813-578b-4a5a-88c2-3baa2c461d74)
+
+ 
  Fully working with Official/Steam/Garena/Tencent/Epic! - Windows/MAC/Linux (x64/arm)!
 
 - Auto updates for tool and for any new patch!
